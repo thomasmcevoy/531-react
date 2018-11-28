@@ -1,1 +1,1 @@
-5/3/1 calculator webapp built with react
+5/3/1 Calculator Webapp built with React.js
