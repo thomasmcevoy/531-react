@@ -12,8 +12,8 @@ git add .
 git commit -m "$1"
 git push
 
-cp -rf ./build/ ~/Projects/thomas-mcevoy.com/dist/531/
-cd ../thomas-mcevoy.com
+cp -rf ./build/ ~/Projects/thomasmcevoy.github.com/531-react/
+cd ../thomasmcevoy.github.com
 
 git add .
 git commit -m "$1"
